@@ -40,10 +40,10 @@
          id="stop10187" />
       <stop
          id="stop10193"
-         offset="0.77021182"
-         style="stop-color:#e8bba5;stop-opacity:1" />
+         offset="0.47435385"
+         style="stop-color:#a87252;stop-opacity:1" />
       <stop
-         style="stop-color:#fffffd;stop-opacity:1"
+         style="stop-color:#f4d9ce;stop-opacity:1"
          offset="1"
          id="stop10189" />
     </linearGradient>
@@ -2871,7 +2871,7 @@
        fx="232.4368"
        fy="488.10403"
        r="9.9392802"
-       gradientTransform="matrix(0.03105037,0.71594546,-1.0812084,0.04689168,765.67877,290.37969)"
+       gradientTransform="matrix(0.02141294,0.76000501,-0.9948301,0.02802902,725.75728,289.34556)"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
@@ -3041,12 +3041,12 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="7.1762366"
-     inkscape:cx="237.54422"
-     inkscape:cy="570.98009"
+     inkscape:cx="214.62134"
+     inkscape:cy="565.40613"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6" />
+     inkscape:current-layer="layer7" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -4474,7 +4474,7 @@
        cy="470.4668"
        cx="244.95673" />
     <ellipse
-       style="display:inline;opacity:0.79000005;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10117-9)"
+       style="display:inline;opacity:0.79000005;fill:#fbf1ed;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10117-9)"
        id="path10075-4"
        transform="matrix(1.1170253,0,0,0.99411414,-28.752159,-1.8587055)"
        ry="9.3115091"
